@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <OutputPath>$(HOME)/.local/share/OuterWildsModManager/OWML/Mods/Bwc9876.PrideLantern</OutputPath>
+  </PropertyGroup>
+</Project>
